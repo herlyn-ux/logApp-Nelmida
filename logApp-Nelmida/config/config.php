@@ -1,9 +1,9 @@
 <?php
-	define('ROOT_URL', 'http://localhost/legendary-garbanzo/logApp-scaling-octo-rubyjets/index.php');
-	define('DB_HOST', '127.0.0.1:3325');
-	define('DB_USER', 'root');
-	define('DB_PASS', '');
-	define('DB_NAME', 'user');
+	define('ROOT_URL', 'http://localhost/logApp-Nelmida/logApp-Nelmida/index.php');
+	define('DB_HOST', 'sql6.freesqldatabase.com');
+	define('DB_USER', 'sql6447299');
+	define('DB_PASS', 'xQF8f3CemC');
+	define('DB_NAME', 'sql6447299');
 
 
 ?>
