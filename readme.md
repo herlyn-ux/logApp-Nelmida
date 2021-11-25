@@ -9,7 +9,7 @@
 - Example image of finish log App below: 
 
 
-![logApp IMG](https://cdn.fbsbx.com/v/t59.2708-21/260168505_603362037549198_2874443671557917640_n.gif?_nc_cat=102&ccb=1-5&_nc_sid=041f46&_nc_eui2=AeFaNlXY0NOq0zGfwatkbEgfZ1TE8E-IxnRnVMTwT4jGdBI5vMObhapkvSGJps7yXnrmqUL3viymKd4UdpZVl9-h&_nc_ohc=AWij2-eFngQAX8MA5pv&_nc_ht=cdn.fbsbx.com&oh=03eecc50c93283111f4a8e93a40accd5&oe=61A1974B)
+![logApp IMG]()
 
 ---
 
