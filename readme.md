@@ -29,4 +29,4 @@
 ---
 ## Authors
 
-- Herlyn P. Nelmida <herlynpasionnelmida.gmail.com>
+- Herlyn P. Nelmida <herlynpasionnelmida@gmail.com>
