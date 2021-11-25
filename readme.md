@@ -31,7 +31,7 @@ ___
 ![phpmyadmin tab IMG](https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/257771217_631963741173655_573521996328712963_n.png?_nc_cat=106&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeGLDgNzB9mIaAX6ol52SUuv_whaVsidRSD_CFpWyJ1FIF2xFfBI7hSHLycHmW45yAgMYByEAZALFSljtGnH1RL3&_nc_ohc=H289tg5rnJYAX_Pd-5Q&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=9f66f13baf43d9628f33023602bc8837&oe=61C64138)
 
 ---
-## :vampire:Authors
+## :vampire:Author
 
  :girl:Herlyn P. Nelmida <herlynpasionnelmida@gmail.com>
 
