@@ -14,7 +14,7 @@ Example image of finish logApp below:
 ---
 
 ## :a:Installation
- :alien: On creating web application we needed first to install is a local development server, you can use  [xampp](https://www.apachefriends.org/download.html "xampp") or [wamp](https://sourceforge.net/projects/wampserver/ "wamp"). The purpose of this is to recreate the environment of an actual web server so that you can run your website code, test it thoroughly, and then move onto the deployment stage. Make sure you also have a code editor before you start everything like Visual Studio code
+ :alien: On creating web application we needed first to install is a local development server, you can use  [xampp](https://www.apachefriends.org/download.html "xampp") or [wamp](https://sourceforge.net/projects/wampserver/ "wamp"). The purpose of this is to recreate the environment of an actual web server so that you can run your website code, test it thoroughly, and then move onto the deployment stage. Make sure you also have a code editor before you start everything like [Visual Studio code](https://code.visualstudio.com/Download "VS Code")
 ___
 
 :moon: On creating sample log application we needed a database app for us to store the data that the users input where an admin user account can view the data stored.
